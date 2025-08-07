@@ -1,0 +1,14 @@
+D:\C#_TASKS\Tracer_project\Tracer_project\bin\Debug\net8.0\Tracer_project.exe
+D:\C#_TASKS\Tracer_project\Tracer_project\bin\Debug\net8.0\Tracer_project.deps.json
+D:\C#_TASKS\Tracer_project\Tracer_project\bin\Debug\net8.0\Tracer_project.runtimeconfig.json
+D:\C#_TASKS\Tracer_project\Tracer_project\bin\Debug\net8.0\Tracer_project.dll
+D:\C#_TASKS\Tracer_project\Tracer_project\bin\Debug\net8.0\Tracer_project.pdb
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.AssemblyInfoInputs.cache
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.AssemblyInfo.cs
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.csproj.CoreCompileInputs.cache
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.dll
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\refint\Tracer_project.dll
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.pdb
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\Tracer_project.genruntimeconfig.cache
+D:\C#_TASKS\Tracer_project\Tracer_project\obj\Debug\net8.0\ref\Tracer_project.dll
